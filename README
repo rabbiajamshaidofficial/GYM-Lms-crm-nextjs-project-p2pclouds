@@ -1,0 +1,59 @@
+# GYM LMS CRM (Next.js + TypeScript)
+
+A frontend web application for managing gym-related workflows, built with **Next.js** and **TypeScript**.  
+This project focuses on building a clean, responsive, and scalable user interface for a gym LMS/CRM system.
+
+---
+
+## 📌 Overview
+
+This project was developed during an industry internship to gain hands-on experience with **Next.js** and **TypeScript** in a real-world environment.  
+It demonstrates component-based architecture, reusable UI patterns, and dashboard-style layouts commonly used in management systems.
+
+---
+
+## 🚀 Features
+
+- Responsive UI built with Next.js and TypeScript
+- Reusable and well-structured components
+- Dashboard-style layouts for gym management
+- Forms and pages for managing gym-related data
+- Focus on clean UI, maintainability, and performance
+
+---
+
+## 🛠 Tech Stack
+
+- **Frontend:** Next.js, TypeScript
+- **Styling:** CSS / Tailwind CSS
+- **Tools:** Git, GitHub, VS Code
+
+---
+
+## ⚙️ Setup Instructions
+
+1. Clone the repository:
+```bash
+git clone https://github.com/rabbiajams haidofficial/GYM-Lms-crm-nextjs-project-p2pclouds.git
+cd GYM-Lms-crm-nextjs-project-p2pclouds
+Install dependencies:
+
+bash
+Copy code
+npm install
+Run the development server:
+
+bash
+Copy code
+npm run dev
+Open in browser:
+
+arduino
+Copy code
+http://localhost:3000
+📌 Notes
+This project was built for internship and learning purposes
+
+Backend and authentication can be integrated in future iterations
+
+Designed to reflect real-world frontend project structure
